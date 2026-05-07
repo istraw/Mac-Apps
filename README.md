@@ -16,7 +16,7 @@
 
 | 名称  | 描述  | 收费模式  | 官网  |  推荐度  |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
-| Thaw  | Mac菜单栏图标管理开源软件 | 免费 | [Thaw](https://github.com/stonerl/Thaw)]) | ⭐️⭐️⭐️⭐️⭐️ |
+| Thaw  | Mac菜单栏图标管理开源软件 | 免费 | [Thaw](https://github.com/stonerl/Thaw) | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 美化
 
